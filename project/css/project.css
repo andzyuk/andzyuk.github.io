@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    background-repeat: no-repeat;
+    background-position: center center;
+    font-family: 'Shadows Into Light', cursive;
+/*    background-color: #0a0806;*/
+    background: linear-gradient(to left, #000, #092063);
+}
+.container-fluid{
+    padding: 0;
+}
+section div.serv-11 img{
+    border-radius: 50%;
+    margin-top: 3vh;
+}
+section div.serv-11{
+ margin-top: -690px;
+}
+section div.serv-12{
+   margin-top: -360px;
+}
+section div.serv-13{
+    padding-left: 5vh;
+    margin-top: -365px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
